@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+.yellow {
+	background-color: yellow; 
+	height: 100px;
+
+
+}
+.rojo {
+	background-color: red;
+	height: 100px;
+
+}

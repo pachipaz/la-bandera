@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+.box {
+	background-color: yellow; 
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.yellow {
+	background-color: yellow;
+} 
+.rojo {
+	background-color: red;
+	height: 100px;
+
